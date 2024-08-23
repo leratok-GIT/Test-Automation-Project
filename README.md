@@ -10,6 +10,8 @@ This repository contains automated tests for the contact form on the Mzamomtsha 
 - [Test Structure](TestStructure)
 - [Common lssues](Commonlssues)
 - [License](#license)
+## The tested website
+![image](https://github.com/user-attachments/assets/c5b6e5a1-d0a9-4722-ae23-3d718b19f255)
 
 ## Project Overview
 
@@ -49,11 +51,10 @@ Some tests may require increased timeouts, especially when waiting for elements 
 Contributions are welcome! Please feel free to submit a Pull Request or open an Issue to discuss any changes or improvements.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [License](https://github.com/leratok-GIT/Test-Automation-Project/blob/main/LICENSE) file for details.
 ```yaml
 
 ---
-
 Replace `https://github.com/yourusername/contact_form_test_automation.git` with the actual URL of your GitHub repository. This README provides a comprehensive guide to your project, including how to set it up, run tests, and understand the test code.
 ```
 
